@@ -23,3 +23,6 @@ SimpleCalc-это простое приложение для калькулят�
 ------------------------------
 
 ### Изображение приложения:
+
+![Screenshot_1623073395](https://user-images.githubusercontent.com/77355204/121036272-4f669e80-c7b7-11eb-8d82-bc715115aebb.png)
+![Screenshot_1623073409](https://user-images.githubusercontent.com/77355204/121036275-4fff3500-c7b7-11eb-8c06-29c24fbeb454.png)
